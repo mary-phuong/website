@@ -4,8 +4,8 @@ title = "Mary Phuong"
 [params]
     name = "Mary Phuong"
     description = "Machine Learning PhD at IST Austria"
-    email = "bphuong~at~ist.ac.at"
-    year = 2019
+    email = "bphuong<at>ist.ac.at"
+    year = 2021
     avatar = "photo1.jpg"
 
     
